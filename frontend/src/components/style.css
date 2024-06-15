@@ -1,0 +1,11 @@
+.landing {
+  min-height: 100vh;
+  background-image: url("../assets/hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+  color: #000;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
